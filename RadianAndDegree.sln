@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadianAndDegree", "RadianAndDegree\RadianAndDegree.csproj", "{1479D1DF-53D5-4B0B-86CE-B2603E1DB2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1479D1DF-53D5-4B0B-86CE-B2603E1DB2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1479D1DF-53D5-4B0B-86CE-B2603E1DB2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1479D1DF-53D5-4B0B-86CE-B2603E1DB2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1479D1DF-53D5-4B0B-86CE-B2603E1DB2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74DC77E2-7BDE-4F6D-AFE8-F3742A1D282A}
+	EndGlobalSection
+EndGlobal
